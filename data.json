@@ -1,0 +1,47 @@
+[
+   {
+      "electrons": 1,
+      "name": "",
+      "symbol": "",
+      "latinName": "",
+      "englishName": "",
+      "yearDiscovered": "",
+      "discoveredBy": "",
+      "CASNumber": "",
+      "CostPer100g": "",
+      "electronShell": [""],
+      "atom": {
+         "electrons": "",
+         "protons": "",
+         "neutrons": ""
+      },
+      "note": "",
+      "basicProperties": {
+         "atomicNumber": 1,
+         "atomicWeight": "",
+         "Density": "",
+         "meltingPoint": [],
+         "boilingPoint": [],
+         "phase": "",
+         "valanceElectron": "",
+         "period": "",
+         "group": [],
+         "block": "",
+         "emissionSpectrum": ""
+      },
+      "atomicProperties": {
+         "electronConfiguration": [],
+         "oxidationState": [],
+         "ionCharge": [],
+         "theIonizationPotential": "",
+         "atomicRadius": "",
+         "covalentRadius": "",
+         "vandarWaalsRadius": ""
+      },
+      "reactivity": {
+         "electronegativity": "",
+         "valenceElectron": "",
+         "electronAffinity": ""
+      }
+   }
+]
